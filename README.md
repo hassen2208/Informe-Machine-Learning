@@ -5,7 +5,8 @@ Este repositorio contiene el desarrollo de dos notebooks correspondientes a un a
 ## Participantes
 - **Anderson Pantoja C.** - 1841610  
 - **Miguel Ángel Muñoz Piñeros** - 2274590  
-- **Hassen David Ortiz** - 2177273  
+- **Hassen David Ortiz** - 2177273
+- **David Urrego Martínez** - 2240407
 
 ---
 
